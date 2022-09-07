@@ -12,8 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Git, GitHub
 
 1. *What is your GitHub username?*
+brockbriggs
 
 2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
+https://github.com/odu-cs625-datavis/fall22-hw1-brockbriggs
 
 ## R
 
