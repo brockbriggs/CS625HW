@@ -23,6 +23,8 @@ The command below will load the tidyverse package.  If you have installed R, RSt
 ```{r}
 library(tidyverse)
 ```
+Verified tidyverse upload.
+Packages: ggplot2, tibble, tidyr, readr, purrr, dplyr, stringr, forcats
 
 ## R Markdown 
 
