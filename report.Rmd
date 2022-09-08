@@ -60,6 +60,8 @@ filter(diamond, carat > 3)
 ## Google Colab
 
 1. *What are the URLs of your Google Colab notebooks (both Python and R)?*
+https://colab.research.google.com/drive/14q6jmbHJz9RG1P5X57s4pfGtb0mf_OXH?usp=sharing
+https://colab.research.google.com/drive/1xPbho6fDlb7fhN8w117u4p4mhhIF7hEW?usp=sharing
 
 ## Tableau
 
