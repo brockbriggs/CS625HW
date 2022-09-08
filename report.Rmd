@@ -90,6 +90,9 @@ Mountain Home, ID
 ![weatherChart](weatherChart.png)
 <img src="weatherChart.png" alt width="350" height="350" />
 
+![weatherChart](https://user-images.githubusercontent.com/112510129/189009954-3af131f7-8b49-48ab-960a-1d04cff1f032.png)
+
+
 ### Charting with Vega-Lite
 
 `markCircle()`
