@@ -23,7 +23,7 @@ loaded packages and their versions.
 ``` r
 library(tidyverse)
 ```
-
+ 
     ## Warning: package 'tidyverse' was built under R version 4.0.5
 
     ## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
