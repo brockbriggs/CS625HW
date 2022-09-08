@@ -65,9 +65,10 @@ https://colab.research.google.com/drive/1xPbho6fDlb7fhN8w117u4p4mhhIF7hEW?usp=sh
 
 ## Tableau
 
-*Insert your the image of your final bar chart here*
+![tableau sales chart](westsales.png)
 
 1. *What conclusions can you draw from the chart?*
+Copiers is the fastest growing sub category within the Technology category with over a 900% increase in profit since 2019.
 
 ## Observable and Vega-Lite
 
@@ -89,9 +90,8 @@ Mountain Home, ID
 
 ![weatherChart](weatherChart.png)
 <img src="weatherChart.png" alt width="350" height="350" />
-
 ![weatherChart](https://user-images.githubusercontent.com/112510129/189009954-3af131f7-8b49-48ab-960a-1d04cff1f032.png)
-#also uploaded photo to the repo
+#also uploaded photo to the repo, few different methods for uploading photo
 
 ### Charting with Vega-Lite
 
