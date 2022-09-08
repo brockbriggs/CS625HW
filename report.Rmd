@@ -75,9 +75,15 @@ https://colab.research.google.com/drive/1xPbho6fDlb7fhN8w117u4p4mhhIF7hEW?usp=sh
 
 1. *In the "New York City weather forecast" section, try replacing `Forecast: detailedForecast` with `Forecast: shortForecast`. Then press the blue play button  or use Shift-Return to run your change. What happens?*
 
-1. *Under the scatterplot of temperature vs. name, try replacing `markCircle()` with `markSquare()`. Then press the blue play button  or use Shift-Return to run your change. What happens? How about `markPoint()`?*
+The forecast description changes from including weather, temperatures, and wind to only 1-2 words on weather.
 
-1. *Under "Pick a location, see the weather forecast", pick a location on the map.  Where was the point you picked near?*
+2. *Under the scatterplot of temperature vs. name, try replacing `markCircle()` with `markSquare()`. Then press the blue play button  or use Shift-Return to run your change. What happens? How about `markPoint()`?*
+
+The icons in the scatterplot change from circles to squares when replacing 'markCircle()' with 'markSquare()'. 'markPoint()' change alters the icons to empty outlined circles.
+
+3. *Under "Pick a location, see the weather forecast", pick a location on the map.  Where was the point you picked near?*
+
+Mountain Home, ID
 
 1. *The last visualization on this page is a "fancy" weather chart embedded from another notebook.  Click on the 3 dots next to that chart and choose 'Download PNG'.  Insert the PNG into your report.*
 
