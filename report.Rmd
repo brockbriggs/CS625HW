@@ -88,6 +88,7 @@ Mountain Home, ID
 4. *The last visualization on this page is a "fancy" weather chart embedded from another notebook.  Click on the 3 dots next to that chart and choose 'Download PNG'.  Insert the PNG into your report.*
 
 ![weatherChart](weatherChart.png)
+<img src="weatherChart.png" alt width="350" height="350" />
 
 ### Charting with Vega-Lite
 
