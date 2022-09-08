@@ -27,7 +27,7 @@ library(tidyverse)
 ```
 Verified tidyverse upload.
 Packages: ggplot2, tibble, tidyr, readr, purrr, dplyr, stringr, forcats
-
+ 
 ## R Markdown 
 ```{r}
 library(rmarkdown)
