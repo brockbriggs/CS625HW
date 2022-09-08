@@ -85,7 +85,9 @@ The icons in the scatterplot change from circles to squares when replacing 'mark
 
 Mountain Home, ID
 
-1. *The last visualization on this page is a "fancy" weather chart embedded from another notebook.  Click on the 3 dots next to that chart and choose 'Download PNG'.  Insert the PNG into your report.*
+4. *The last visualization on this page is a "fancy" weather chart embedded from another notebook.  Click on the 3 dots next to that chart and choose 'Download PNG'.  Insert the PNG into your report.*
+
+![weatherChart](weatherChart.png)
 
 ### Charting with Vega-Lite
 
