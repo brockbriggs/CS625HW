@@ -91,29 +91,41 @@ Mountain Home, ID
 <img src="weatherChart.png" alt width="350" height="350" />
 
 ![weatherChart](https://user-images.githubusercontent.com/112510129/189009954-3af131f7-8b49-48ab-960a-1d04cff1f032.png)
-
+#also uploaded photo to the repo
 
 ### Charting with Vega-Lite
 
 `markCircle()`
 
 1. *Pass an option of `{ size: 200 }` to `markCircle()`.*
-1. *Try `markSquare` instead of `markCircle`.*
-1. *Try `markPoint({ shape: 'diamond' })`.*
+Made the data points on the scatterplot balloon in size with lots of overlap. Would be good for general ideas but hard to view any specific data points.
+
+2. *Try `markSquare` instead of `markCircle`.*
+Turns all the circles into squares. 
+
+3. *Try `markPoint({ shape: 'diamond' })`.*
+Turned all squares into diamonds.
 
 `vl.x().fieldQ("Horsepower")`, ...
 
 1. *Change `Horsepower` to `Acceleration`*
-1. *Swap what fields are displayed on the x- and y-axis*
+Shifted from a chart similar to exponential values to more spread out values but generally centered around 16 mark on acceleration.
+
+2. *Swap what fields are displayed on the x- and y-axis*
+Shifted from a verticle dispersion to horizontal. 
 
 `vl.tooltip().fieldN("Name")`
 
 1. *Change `Name` to `Origin`.*
+This made no discernable difference to the acceleration/mpg chart.
 
 Another example, `count()`
 
 1. *Remove the `vl.y().fieldN("Origin")` line.*
-1. *Replace `count()` with `average("Miles_per_Gallon")`.*
+Changed the chart from 3 values to 1.
+
+2. *Replace `count()` with `average("Miles_per_Gallon")`.*
+Adjust charted to show miles per gallon and provided new, applicable values.
 
 ## References
 
